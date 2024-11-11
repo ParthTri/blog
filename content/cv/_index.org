@@ -6,23 +6,23 @@
 Welcome to my CV or Resume!!
 
 * Education
-** Auckland University of
+** Auckland University of Technology
 FEBRUARY 2023 – NOVEMBER 2025
 
 Studying Bachelor in Computer and Information Sciences, majoring in Software Development and Cyber Security.
 
 * Experience
-** Pulse Fencing - Wordpress/Shopify Developer (Casual)
+** Wordpress/Shopify Developer (Casual)
 JANUARY 2020 - PRESENT
 
 Building and designing the business website and maintaining the Shopify store.
 
-** Whitecliffe College - Automation Engineer (Contract)
+** Automation Engineer (Contract)
 JULY 2022 - JANUARY 2024
 
 Developing custom software solutions to automate large amounts of data entry and data validating processes.
 
-** SiteHost - Junior Software Developer / SysAdmin
+** Junior Software Developer / SysAdmin
 DECEMBER 2023 – JULY 2024
 
 Providing support for a variety of company products including servers, networking, and applications. Worked on assigned internal projects, such as application server setup
