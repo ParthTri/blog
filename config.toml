@@ -4,10 +4,6 @@ title = 'Parth Trivedi'
 
 theme = "poison"
 
-[markup]
-  defaultMarkdownHandler = 'org'
-
-
 [[resources]]
    src = "/static/CV_Parth_Trivedi.pdf"
    title = '*.pdf'

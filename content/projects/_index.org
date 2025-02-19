@@ -1,4 +1,0 @@
-#+TITLE: Projects
-#+AUTHOR: Parth Trivedi
-#+DRAFT: false
-
