@@ -2,7 +2,7 @@ baseURL = 'https://parth.trivedi.nz'
 languageCode = 'en-us'
 title = 'Parth Trivedi'
 
-theme = "poison"
+theme = ["hugo-admonitions", "poison"]
 
 [[resources]]
    src = "/static/CV_Parth_Trivedi.pdf"
@@ -18,7 +18,7 @@ theme = "poison"
 
     front_page_content = ["projects", "posts"] # Equivalent to the default value, add page bundle names to include them on the front page.
 
-    # MENU 
+    # MENU
     # Menu dict keys:
         # Name:         The name to display on the menu.
         # URL:          The directory relative to the content directory.
@@ -31,7 +31,7 @@ theme = "poison"
         {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5}
     ]
 
-    # Links to your socials.  Comment or delete any you don't need/use. 
+    # Links to your socials.  Comment or delete any you don't need/use.
     email_url = "mailto://parth@trivedi.nz"
     github_url = "https://github.com/ParthTri"
     linkedin_url = "https://www.linkedin.com/in/parth-trivedi-35646a260"
