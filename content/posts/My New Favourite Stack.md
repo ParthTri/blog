@@ -5,7 +5,7 @@ date: 2025-10-21
 ---
 It's been a while since my last blog post but that's mainly cause I've found myself preoccupied with a side project I've been working on. I won't be sharing with this project is yet or share many code snippets, but mainly talk about my experiences of this stack.
 
-> [!TLDR]
+> [!ABSTRACT] TLDR
 > The stack I will be talking about is Django + Postgres + HTMX + Surrealjs + Tailwindcss. It's nothing technical, just sharing something I've been trying out.
 
 # A little background...
