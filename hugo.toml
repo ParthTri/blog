@@ -1,0 +1,62 @@
+baseURL = 'https://parth.trivedi.nz'
+languageCode = 'en-us'
+title = 'Parth Trivedi'
+
+theme = ["hugo-admonitions", "hugo-blog-awesome"]
+
+[[resources]]
+   src = "/static/CV_Parth_Trivedi.pdf"
+   title = '*.pdf'
+
+[params]
+    brand = "Parth Trivedi"                      # name of your site - appears in the sidebar
+    description = "" # Used as default meta description if not specified in front matter
+    dark_mode = true                      # optional - defaults to false
+    # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
+
+    front_page_content = ["projects", "posts"] # Equivalent to the default value, add page bundle names to include them on the front page.
+
+    # MENU
+    # Menu dict keys:
+        # Name:         The name to display on the menu.
+        # URL:          The directory relative to the content directory.
+        # HasChildren:  If the directory's files should be listed.  Default is true.
+        # Limit:        If the files should be listed, how many should be shown.
+
+    # Links to your socials.  Comment or delete any you don't need/use.
+    email_url = "mailto://parth@trivedi.nz"
+    github_url = "https://github.com/ParthTri"
+    linkedin_url = "https://www.linkedin.com/in/parth-trivedi-35646a260"
+
+    # Which section the RSS icon links to, defaults to all content. See https://gohugo.io/templates/rss/#section-rss
+    rss_section = "posts"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/ParthTri"
+
+[[params.socialIcons]]
+    name = "Rss"
+    url = "/index.xml"
+    
+[taxonomies]
+    series = 'series'
+    tags = 'tags'
+
+[markup.goldmark.renderer]
+    unsafe = true
