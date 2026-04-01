@@ -1,5 +1,5 @@
 ---
-draft: "true"
+draft: "false"
 title: I'm Sick of Job Applications
 date: 2026-03-27
 ---
