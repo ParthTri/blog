@@ -225,7 +225,7 @@ Otherwise, it could be a Platform, where I connect (pun intended) the organisers
 
 One major issue I did find was when a UI required high interaction. Using this page as an example:
 
-<img><img src="/poules-screenshot.png" alt="Giant table with cells"/>
+<img><img src="/images/poules-screenshot.png" alt="Giant table with cells"/>
 
 Each of the drop downs contain a single letter to depict whether the competitor won or lost (V or D), and the number box next to it is their score. Now to make this more UI friendly it should automatically determine the victor based on the scores, i.e. the greater score value, if however the score is the same, then wait for the user to update it and validate it.
 
