@@ -9,6 +9,8 @@ theme = ["hugo-admonitions", "hugo-blog-awesome"]
    title = '*.pdf'
 
 [params]
+    name = "Parth Trivedi"
+    email = "parth@trivedi.nz"
     brand = "Parth Trivedi"                      # name of your site - appears in the sidebar
     description = "" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
